@@ -1,9 +1,12 @@
 Course sales react app
 
-Basic Sales app for demo and learning purpose how to pass props and use state in react app
+Basic Sales app for demo and learning purpose.
+It gives understanding on how to pass props and use state in react app
 
 -> clone
+
 -> npm install
+
 -> npm start
 
 demo :https://ishantl.github.io/course-sales-reactapp/
